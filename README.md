@@ -15,3 +15,5 @@ Microsoft fabric can be used to prep data and can assist with the data science p
 3. Prepare the data: Explore the data by reading it from a Lakehouse into a notebook. Clean and transform the data based on the model's requirements.
 4. Train the model: Choose an algorithm and hyperparameter values based on trial and error by tracking your experiments with MLflow.
 5. Generate predictions: Use model batch scoring to generate the requested predictions.
+
+# Data science in Microsoft Fabric
