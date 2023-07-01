@@ -17,3 +17,7 @@ Microsoft fabric can be used to prep data and can assist with the data science p
 5. Generate predictions: Use model batch scoring to generate the requested predictions.
 
 # Data science in Microsoft Fabric
+## Notebooks
+## Experiments
+## Models
+
